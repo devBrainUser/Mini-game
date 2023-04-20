@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\Mini-game\Mini-game\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Mini-game.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\Mini-game\x64\Debug\Mini-game.exe
